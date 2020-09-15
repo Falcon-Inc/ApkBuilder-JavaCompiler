@@ -21,7 +21,7 @@
 *Add Android.jar in assets Folder*
 *Then Simply Build the Project*
 ```
-#  *Join Our Telegram Group:* 
+# Join Our Telegram Group:
 https://t.me/Falcon_inc_yt
 
 # Repo Link :
